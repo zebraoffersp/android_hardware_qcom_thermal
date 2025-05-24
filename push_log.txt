@@ -1,0 +1,4 @@
+📦 Tạo mới repo: android_hardware_qcom_thermal
+To github.com:zebraoffersp/android_hardware_qcom_thermal.git
+ * [new branch]      lineage-17.1 -> lineage-17.1
+✅ Đã push thành công: android_hardware_qcom_thermal
